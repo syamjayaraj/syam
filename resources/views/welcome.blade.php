@@ -53,13 +53,16 @@ Hello there
         <div class="row">
           <div class="col-md-4">
             <div class="card bg-light mb-3" style="max-width: 20rem;">
-                  <div class="card-header bg-primary"><i class="fa fa-code fa-fw"></i> PHP</div>
-                  <div class="card-footer font-black">star</div>
+                  <div class="card-header bg-secondary"><i class="fa fa-code fa-fw"></i> PHP</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="card bg-light mb-3" style="max-width: 20rem;">
-                  <div class="card-header bg-primary"><i class="fa fa-code fa-fw"></i> PHP</div>
+                  <div class="card-header bg-secondary"><i class="fa fa-code fa-fw"></i> PHP</div>
                   <div class="card-footer font-black">star</div>
             </div>
           </div>
@@ -82,33 +85,35 @@ Hello there
             <h1 class="gallery-title">floYET</h1>
             <p>floYET is my company I have been developing for mutiple solutions.It is sub branched into categories where specific branches control different types of solutions.</p>
         </div>
+
+
+        <!-- Three columns of text below the carousel -->
         <div class="row">
-          <div class="col-md-4">
-            <div class="card bg-light mb-3" style="max-width: 20rem;">
-              <h6><div class="card-header bg-primary">ARIVinc</div></h6>
-              <div class="card-body">
-                <p class="card-text font-black">Learning solutions of floYET are managed by this. 
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+            <h2>ARIV</h2>
+                <p>Learning solutions under floYET are managed by ARIV. 
               <a href="http://www.codeariv.com">CodeARIV</a> | <a href="http://www.devariv.com">DevARIV</a> | | <a href="http://www.tutariv.com">TutARIV</a> | <a href="http://www.kerariv.com">KerARIV</a></p>
-              </div>
-              <div class="card-footer font-black">Explore</div>
-            </div>
-          </div>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+            <h2>Vyapari</h2>
+            <p>Ecommerce platform under floYET are managed by Vyapari section.
+            <br>
+            <a href="http://www.nexofarm.com">NexoFarm</a> | <a href="http://www.tinkleteddy.com">TinkleTeddy</a></p>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+            <h2>Samooh</h2>
+            <p>Social Networking platforms under floYET are managed here.<br>
+            <a href="http://www.comontra.com">Comontra</a> | <a href="http://www.napsat.in">Napsat</a></p>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div><!-- /.col-lg-4 -->
+        </div><!-- /.row -->
 
 
-                    <div class="col-md-4">
-            <div class="card bg-light mb-3" style="max-width: 20rem;">
-              <h6><div class="card-header bg-primary">E-vyapari</div></h6>
-              <div class="card-body">
-                <p class="card-text font-black">Ecommerce platform under floYET are managed by E-vyapari section
-                <br>
-              <a href="http://www.nexofarm.com">NexoFarm</a> | <a href="http://www.tinkleteddy.com">TinkleTeddy</a></p>
-              </div>
-              <div class="card-footer font-black">Explore</div>
-            </div>
-          </div>
-
-
-        </div>
     </div>
     <a href="#contact" class="btn btn-circle js-scroll-trigger">
       <i class="fa fa-angle-double-down animated"></i>
@@ -129,19 +134,19 @@ Hello there
             <div class="row">
               <div class="col-md-4">
                 <div class="card bg-light mb-3 ">
-                  <div class="card-header bg-primary"><i class="fa fa-envelope fa-fw"></i> Email</div>
+                  <div class="card-header bg-secondary"><i class="fa fa-envelope fa-fw"></i> Email</div>
                   <div class="card-footer font-black">syamjayaraj@gmail.com</div>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="card bg-light mb-3">
-                  <div class="card-header bg-primary"><i class="fa fa-skype fa-fw"></i> Skype</div>
+                  <div class="card-header bg-secondary"><i class="fa fa-skype fa-fw"></i> Skype</div>
                   <div class="card-footer font-black">syamjayaraj</div>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="card bg-light mb-3">
-                  <div class="card-header bg-primary"><i class="fa fa-phone fa-fw"></i> Phone</div>
+                  <div class="card-header bg-secondary"><i class="fa fa-phone fa-fw"></i> Phone</div>
                   <div class="card-footer font-black">+91-9496342650</div>
                 </div>
               </div>
