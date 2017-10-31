@@ -11,3 +11,5 @@
 |
 */
 Route::get('/','WelcomeController@index');
+Route::get('/portfolio','PortfolioController@index');
+Route::get('/blog','BlogController@index');
