@@ -17,6 +17,9 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="{{url('/#projects')}}">Projects</a>
             </li>
+ {{--            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="{{url('/#anthology')}}">Anthology</a>
+            </li> --}}
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="{{url('/#contact')}}">Contact</a>
             </li>        

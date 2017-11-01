@@ -27,8 +27,10 @@ Hello there
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2>About me</h2>
-            <p>I am a person who born in a small beautifull village Parambath in God's own country.
+            <p>My name is Syamlal CM, a person who born in a small beautifull village Parambath in God's own country Kerala.As a developer, I specialise in developing beautiful, usable, professional websites/webapps and mobile apps for multiple platforms like Android,iOS,WP.
             </p>
+            <p>Beyond as a developer I also write contents such as essays, stories, poems regarding any topic I have in my mind but usually I choose "Social awareness".I always like to be alone somewhere and think something different and to create something with my thoughts.</p>
+            <p>I have a four member family Father Jayarajan,Mother Ranjini and young brother Sruthilal.</p>            
           </div>
         </div>
       </div>
@@ -37,7 +39,7 @@ Hello there
     </a>
     </section>
  <!-- Skills Section -->
-    <section id="skills" class="download-section content-section text-center">
+    <section id="skills" class="bg1-section content-section text-center">
         <!-- Page Content -->
      <div class="container">
 
@@ -45,15 +47,14 @@ Hello there
             <h1 class="gallery-title">Skills</h1>
         </div>
 
-        <div align="center">
-            <button class="btn btn-default filter-button" data-filter="all">Developer</button>
-            <button class="btn btn-default filter-button" data-filter="hdpe">Writter</button>
-        </div>
+
+            <h5><i class="fa fa-code fa-fw"></i> Programing Languages</h5>
+
 
         <div class="row">
           <div class="col-md-4">
             <div class="card bg-light mb-3" style="max-width: 20rem;">
-                  <div class="card-header bg-secondary"><i class="fa fa-code fa-fw"></i> PHP</div>
+                  <div class="card-header bg-secondary">PHP</div>
                   <div class="card-footer font-black">
 <i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp
 <i class="fa fa-star-o"></i>
@@ -62,12 +63,142 @@ Hello there
           </div>
           <div class="col-md-4">
             <div class="card bg-light mb-3" style="max-width: 20rem;">
-                  <div class="card-header bg-secondary"><i class="fa fa-code fa-fw"></i> PHP</div>
-                  <div class="card-footer font-black">star</div>
+                  <div class="card-header bg-secondary">C | C++</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div
+            </div>
+          </div>
+        </div>
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">Java</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div
+            </div>
+          </div>
+        </div>
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">JavaScript</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div
+            </div>
+          </div>
+        </div>
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">Python</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div
+            </div>
+          </div>
+        </div>
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">Ruby</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div
             </div>
           </div>
         </div>
     </div>
+<br>
+<h5><i class="fa fa-cogs fa-fw"></i> Frameworks</h5>
+          
+
+
+        <div class="row">
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">Bootstrap</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star"></i>
+                  </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">Laravel</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">Angular</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div
+            </div>
+          </div>
+        </div>
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">Magento</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div
+            </div>
+          </div>
+        </div>
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">WooCommerce</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div
+            </div>
+          </div>
+        </div>
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">django</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div
+            </div>
+          </div>
+        </div>
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">Ruby on Rails</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div
+            </div>
+          </div>
+        </div>  
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">Ionic</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div
+            </div>
+          </div>
+        </div>        
+    </div>
+
+
     <a href="#projects" class="btn btn-circle js-scroll-trigger">
       <i class="fa fa-angle-double-down animated"></i>
     </a>
@@ -77,7 +208,7 @@ Hello there
 
 
     <!-- Projects Section -->
-    <section id="projects" class="download-section content-section text-center">
+    <section id="projects" class="bg2-section content-section text-center">
         <!-- Page Content -->
      <div class="container">
 
