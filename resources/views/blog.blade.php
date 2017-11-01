@@ -10,7 +10,7 @@ Hello there
 <section id="blog" class="content-section text-center">
 <div class="container">
   <header class="page-header">
-    <h4>Take a look at my posts as a writter</h4>
+    <h4>Take a look at my posts as a writer</h4>
   </header>
   
   <ul class="timeline">

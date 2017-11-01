@@ -10,7 +10,7 @@ Hello there
           <div class="row">
             <div class="col-lg-8 mx-auto">
               <h1 class="brand-heading">Syamlal CM</h1>
-              <h5>Developer | Writter</h5>
+              <h5>Developer | Writer</h5>
               <p class="intro-text">Discover who I am as a person aside of the above mentioned</p>
               <a href="#about" class="btn btn-circle js-scroll-trigger">
                 <i class="fa fa-angle-double-down animated"></i>
@@ -120,15 +120,6 @@ Hello there
         <div class="row">
           <div class="col-md-4">
             <div class="card bg-light mb-3" style="max-width: 20rem;">
-                  <div class="card-header bg-secondary">Bootstrap</div>
-                  <div class="card-footer font-black">
-<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp
-<i class="fa fa-star"></i>
-                  </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card bg-light mb-3" style="max-width: 20rem;">
                   <div class="card-header bg-secondary">Laravel</div>
                   <div class="card-footer font-black">
 <i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp
@@ -139,6 +130,16 @@ Hello there
           <div class="col-md-4">
             <div class="card bg-light mb-3" style="max-width: 20rem;">
                   <div class="card-header bg-secondary">Angular</div>
+                  <div class="card-footer font-black">
+<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp
+<i class="fa fa-star-o"></i>
+                  </div
+            </div>
+          </div>
+        </div>
+          <div class="col-md-4">
+            <div class="card bg-light mb-3" style="max-width: 20rem;">
+                  <div class="card-header bg-secondary">React</div>
                   <div class="card-footer font-black">
 <i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star"></i>&nbsp&nbsp&nbsp<i class="fa fa-star-o"></i>&nbsp&nbsp&nbsp
 <i class="fa fa-star-o"></i>
@@ -221,23 +222,23 @@ Hello there
         <!-- Three columns of text below the carousel -->
         <div class="row">
           <div class="col-lg-4">
-            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+            <img class="rounded-circle" src="img/ariv.jpg" alt="Generic placeholder image" width="140" height="140">
             <h2>ARIV</h2>
                 <p>Learning solutions under floYET are managed by ARIV. 
               <a href="http://www.codeariv.com">CodeARIV</a> | <a href="http://www.devariv.com">DevARIV</a> | | <a href="http://www.tutariv.com">TutARIV</a> | <a href="http://www.kerariv.com">KerARIV</a></p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Vyapari</h2>
-            <p>Ecommerce platform under floYET are managed by Vyapari section.
+            <img class="rounded-circle" src="img/vyapaari.jpg" alt="Generic placeholder image" width="140" height="140">
+            <h2>Vyapaari</h2>
+            <p>Ecommerce platform under floYET are managed by Vyapaari section.
             <br>
             <a href="http://www.nexofarm.com">NexoFarm</a> | <a href="http://www.tinkleteddy.com">TinkleTeddy</a></p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Samooh</h2>
+            <img class="rounded-circle" src="img/samooha.jpg" alt="Generic placeholder image" width="140" height="140">
+            <h2>Samooha</h2>
             <p>Social Networking platforms under floYET are managed here.<br>
             <a href="http://www.comontra.com">Comontra</a> | <a href="http://www.napsat.in">Napsat</a></p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
