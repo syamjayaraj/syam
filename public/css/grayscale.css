@@ -146,16 +146,16 @@ a {
 
 .bg1-section {
   color: white;
-  background: url("../img/bg1.jpg") no-repeat center center scroll;
-  background-color: black;
+/*  background: url("../img/bg1.jpg") no-repeat center center scroll;*/
+  background-color: #afa0a2;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover; }
 .bg2-section {
   color: white;
-  background: url("../img/bg2.jpg") no-repeat center center scroll;
-  background-color: black;
+/*  background: url("../img/bg2.jpg") no-repeat center center scroll;*/
+  background-color: #9d9e96;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

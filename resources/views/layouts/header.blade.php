@@ -13,6 +13,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="{{url('/#skills')}}">Skills</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="{{url('/#favorite')}}">Favorites</a>
             </li> 
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="{{url('/#projects')}}">Projects</a>

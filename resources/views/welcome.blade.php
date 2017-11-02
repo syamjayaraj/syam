@@ -10,6 +10,7 @@ Hello there
           <div class="row">
             <div class="col-lg-8 mx-auto">
               <h1 class="brand-heading">Syamlal CM</h1>
+                <img class="rounded-circle" src="img/dp.jpg" alt="Generic placeholder image" width="140" height="140">
               <h5>Developer | Writer</h5>
               <p class="intro-text">Discover who I am as a person aside of the above mentioned</p>
               <a href="#about" class="btn btn-circle js-scroll-trigger">
@@ -205,6 +206,40 @@ Hello there
     </a>
 
     </section>
+
+    <!-- Favorites Section -->
+    <section id="favorite" class="content-section text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2>My Favorites</h2>
+            <p>I have a small list of favorites that I frequently used in programing.
+            </p>         
+          </div>
+        </div>
+        <!-- Three columns of text below the carousel -->
+        <div class="row">
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="img/sublime.png" alt="Generic placeholder image" width="140" height="140">
+            <h4>Sublime Text</h4>
+                <p>Code editor I have been using using for years.It is light weight and powerfull.</p>
+          </div>
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="img/chrome.png" alt="Generic placeholder image" width="140" height="140">
+            <h4>Chrome</h4>
+            <p>The best browser for a developer in my experience</p>
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="img/ubuntu.png" alt="Generic placeholder image" width="140" height="140">
+            <h4>Ubuntu</h4>
+            <p>The power of an open source software OS is much better than Windows and Mac</p>
+          </div><!-- /.col-lg-4 -->
+        </div><!-- /.row -->
+    </div>
+    <a href="#skills" class="btn btn-circle js-scroll-trigger">
+      <i class="fa fa-angle-double-down animated"></i>
+    </a>
+    </section>
    
 
 
@@ -226,7 +261,7 @@ Hello there
             <h2>ARIV</h2>
                 <p>Learning solutions under floYET are managed by ARIV. 
               <a href="http://www.codeariv.com">CodeARIV</a> | <a href="http://www.devariv.com">DevARIV</a> | | <a href="http://www.tutariv.com">TutARIV</a> | <a href="http://www.kerariv.com">KerARIV</a></p>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+{{--             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p> --}}
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="img/vyapaari.jpg" alt="Generic placeholder image" width="140" height="140">
@@ -234,14 +269,14 @@ Hello there
             <p>Ecommerce platform under floYET are managed by Vyapaari section.
             <br>
             <a href="http://www.nexofarm.com">NexoFarm</a> | <a href="http://www.tinkleteddy.com">TinkleTeddy</a></p>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+{{--             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p> --}}
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="img/samooha.jpg" alt="Generic placeholder image" width="140" height="140">
             <h2>Samooha</h2>
             <p>Social Networking platforms under floYET are managed here.<br>
             <a href="http://www.comontra.com">Comontra</a> | <a href="http://www.napsat.in">Napsat</a></p>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+{{--             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p> --}}
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
 
@@ -267,19 +302,19 @@ Hello there
               <div class="col-md-4">
                 <div class="card bg-light mb-3 ">
                   <div class="card-header bg-secondary"><i class="fa fa-envelope fa-fw"></i> Email</div>
-                  <div class="card-footer font-black">syamjayaraj@gmail.com</div>
+                  <div class="card-footer font-black"><a href="mailto:syamjayaraj@gmail.com">syamjayaraj@gmail.com</a></div>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="card bg-light mb-3">
-                  <div class="card-header bg-secondary"><i class="fa fa-skype fa-fw"></i> Skype</div>
-                  <div class="card-footer font-black">syamjayaraj</div>
+                  <div class="card-header bg-secondary"><i class="fa fa-skype fa-fw"></i>Skype</div>
+                  <div class="card-footer font-black"><a href="skype:+919496342650?call">syamjayaraj</a></div>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="card bg-light mb-3">
                   <div class="card-header bg-secondary"><i class="fa fa-phone fa-fw"></i> Phone</div>
-                  <div class="card-footer font-black">+91-9496342650</div>
+                  <div class="card-footer font-black"><a href="tel:+91-9496342650">+91-9496342650</a></div>
                 </div>
               </div>
             </div>
