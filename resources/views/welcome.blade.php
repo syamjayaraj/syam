@@ -201,7 +201,7 @@ Hello there
     </div>
 
 
-    <a href="#projects" class="btn btn-circle js-scroll-trigger">
+    <a href="#favorite" class="btn btn-circle js-scroll-trigger">
       <i class="fa fa-angle-double-down animated"></i>
     </a>
 
@@ -236,7 +236,7 @@ Hello there
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
     </div>
-    <a href="#skills" class="btn btn-circle js-scroll-trigger">
+    <a href="#projects" class="btn btn-circle js-scroll-trigger">
       <i class="fa fa-angle-double-down animated"></i>
     </a>
     </section>
