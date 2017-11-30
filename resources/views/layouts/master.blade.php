@@ -5,10 +5,10 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Syam.me is Personal website of Syamlal CM | Devoloper | Writer. It also includes the Blog of Syam.">
     <meta name="author" content="">
 
-    <title>@yield('title') | Syam.me</title>
+    <title>@yield('title') | Syamlal CM | Developer | Graphic Designer | Writer | syam.me</title>
 
     <link rel="shortcut icon" href="favicon.ico">
 

@@ -197,9 +197,7 @@ Hello there
       </div>
     </li>
   </ul>
-  <h6>For more <a href="https://heartofsyam.blogspot.in">HEARTofSYAM</a></h6>
+  <h6>For more <a href="https://heartofsyam.blogspot.in" target="_">HEARTofSYAM</a></h6>
 </div>
-{{-- <h1><i class="fa fa-wrench"></i></h1>
-<h2>Page under construction</h2> --}}
     </section>
 @endsection

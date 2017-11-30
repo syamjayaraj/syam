@@ -147,7 +147,7 @@ a {
 .bg1-section {
   color: white;
 /*  background: url("../img/bg1.jpg") no-repeat center center scroll;*/
-  background-color: #f4424e;
+  background-color: #1f2f3a;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -155,7 +155,7 @@ a {
 .bg2-section {
   color: white;
 /*  background: url("../img/bg2.jpg") no-repeat center center scroll;*/
-  background-color: #9d9e96;
+  background-color: #585953;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
